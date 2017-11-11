@@ -1,0 +1,5 @@
+# 以下规则意为忽略除 *.enc 以及 .gitignore 以外的所有文件。
+*
+!.gitignore
+!*.enc
+
